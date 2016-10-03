@@ -1,0 +1,1334 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<title>Central de Mangás - Leitura Online de Mangás em Português</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="og:image" content="/img/cdm.jpg" />
+	<link rel="stylesheet" href="/css/bootstrap.min.css?r=6">
+	<link rel="stylesheet" href="/css/base.css?r=6">
+	<link rel="stylesheet" href="/css/module.css?r=6">
+	<link rel="stylesheet" href="/css/cdm.css?r=6">
+	<script src="/js/respond.min.js?r=6"></script>
+	<script src="/js/ads.js?r=6"></script>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-9649862184829265",
+        enable_page_level_ads: true
+      });
+    </script>
+</head>
+<body>
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/pt_BR/all.js#xfbml=1&appId=210519505647837";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-4350740-5']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+
+	<div class="container">
+		<nav class="navbar navbar-fixed-top navbar-inverse">
+	<div class="container">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-main">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="/">Central de Mangás</a>
+		</div>
+
+		<div class="collapse navbar-collapse" id="navbar-main">
+			<ul class="nav navbar-nav">
+								<li class="active"><a href="/" target="">Home</a></li>
+								<li><a href="/mangas" target="">Mangás</a></li>
+								<li><a href="/forum/index.php" target="_blank">Fórum</a></li>
+								<li><a href="https://www.facebook.com/groups/991085887646348/" target="_blank">Grupo CDM</a></li>
+								<li><a href="/importante" target="">Importante</a></li>
+								<li><a href="mailto:contato@centraldemangas.com.br" target="">Contato</a></li>
+								<li><a href="/rss" target="">RSS</a></li>
+							</ul>
+
+						<ul class="nav navbar-nav navbar-right">
+				<li class="dropdown">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">Usuário <b class="caret"></b></a>
+					<ul class="dropdown-menu">
+												<li class="">
+							<a href="/users/login" target=""><span class="glyphicon glyphicon-user"></span> Login</a>
+						</li>
+												<li class="">
+							<a href="/users/register" target=""><span class="glyphicon glyphicon-pencil"></span> Registrar-se</a>
+						</li>
+											</ul>
+				</li>
+			</ul>
+					</div>
+	</div>
+</nav>
+	</div>
+	<center>
+		<a href="/"><img style="margin: 20px" src="/img/logocdm1.png"></a>
+		<img src="/img/logo01.png">
+	</center>
+	<div class="container branco">
+		<div id="aviso-block" class="hide">
+			<div class="alert alert-danger">
+				<!-- <img class="pull-left" width="200" src="https://a.disquscdn.com/get?url=http%3A%2F%2Fmedia0.giphy.com%2Fmedia%2F4NuAILyDbmD16%2Fgiphy.gif&key=ErP796sCx9sHvh0dHuhbdg" alt="" /> -->
+				<!-- <img class="pull-left" width="175" src="http://www.portallos.com.br/wp-content/gallery/bleach_wallpapers/bleach-wallpaper-29.jpg" alt="" /> -->
+				<img class="pull-left" src="/img/kon_crying.png" alt="" />
+				<center>
+					<!-- <h2>Você está usando o plugin <u>AdBlock</u>.</h2> -->
+					<h2>Kon está triste com você!</h2>
+					<h5>Ajude-nos! Por favor, desligue o <u><u>AdBlock</u></u> para que possamos continuar mantendo o site no ar.</h5>
+					<h5>Para destivar o <u>AdBlock</u> neste site, clique no ícone do <u>AdBlock</u> e selecione a opção <strong>"Não usar nesta página"</strong>.</h5>
+					<br>
+				</center>
+			</div>
+		</div>
+
+		<div class="ad">
+	<center>
+			<!-- AD -->
+		<!-- adsense -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-9649862184829265"
+     data-ad-slot="7890210430"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+		</center>
+</div>
+
+		
+<div class="row">
+	<div class="col-xs-3 col-md-3">
+
+		<div class="row">
+			<div class="col-xs-12 col-md-12">
+				<center>
+					<!-- Place this tag where you want the +1 button to render. -->
+					<div class="g-plusone" data-size="tall" data-annotation="inline" data-width="215" data-href="http://centraldemangas.com.br"></div>
+				</center>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12 col-md-12">
+				<center>
+					<!-- Place this tag where you want the badge to render. -->
+					<div class="g-plus" data-width="215" data-height="69" data-href="//plus.google.com/111279093591583326254?rel=publisher"></div>
+				</center>
+			</div>
+		</div>
+
+		<!-- Place this tag after the last +1 button tag. -->
+		<script type="text/javascript">
+		  window.___gcfg = {lang: 'pt-BR'};
+
+		  (function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		  })();
+		</script>
+
+		<div class="row">
+			<div class="col-xs-12 col-md-12">
+				<center>
+					<!-- <div class="fb-facepile" data-href="http://facebook.com/centraldemangas" data-max-rows="5" data-width="215"></div> -->
+					<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like-box href="http://www.facebook.com/pages/Central-de-Mangas/138813389505875" width="215" height="530" connections="21" stream="false" header="false"></fb:like-box>
+				</center>
+			</div>
+		</div>
+		<br>
+
+		<div id="ad_barra" class="ad">
+	<center>
+			<!-- AD -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Barra -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-9649862184829265"
+     data-ad-slot="1704076035"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+		</center>
+</div>
+	</div>
+	<div class="col-xs-6 col-md-6">
+		<div class="alert alert-info">
+			<p class="lead"><strong>Mais procurados</strong></p>
+		</div>
+		<div class="row">
+						<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+				<center>
+					<p>
+												<a href="http://cdmft.com.br/capitulos/499">
+							<img src="http://capas.centraldemangas.com.br/150x200/fairy-tail.jpg" class="img-thumbnail" width="130px">
+						</a>
+						<a href="http://cdmft.com.br/capitulos/499" class="linha_unica"><strong>Fairy Tail | 499</strong></a>
+						<small>
+							<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-29 08:11:46</span></strong>
+						</small>
+					</p>
+				</center>
+			</div>
+						<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+				<center>
+					<p>
+												<a href="/online/seven-deadly-sins/189">
+							<img src="http://capas.centraldemangas.com.br/150x200/seven-deadly-sins.jpg" class="img-thumbnail" width="130px">
+						</a>
+						<a href="/online/seven-deadly-sins/189" class="linha_unica"><strong>Seven Deadly Sins | 189</strong></a>
+						<small>
+							<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-29 08:12:30</span></strong>
+						</small>
+					</p>
+				</center>
+			</div>
+						<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+				<center>
+					<p>
+												<a href="http://kononline.centraldemangas.org/capitulos/686">
+							<img src="http://capas.centraldemangas.com.br/150x200/bleach.jpg" class="img-thumbnail" width="130px">
+						</a>
+						<a href="http://kononline.centraldemangas.org/capitulos/686" class="linha_unica"><strong>Bleach | 686</strong></a>
+						<small>
+							<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-18 10:34:11</span></strong>
+						</small>
+					</p>
+				</center>
+			</div>
+						<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+				<center>
+					<p>
+												<a href="/online/tales-of-demons-and-gods/095">
+							<img src="http://capas.centraldemangas.com.br/150x200/tales-of-demons-and-gods.jpg" class="img-thumbnail" width="130px">
+						</a>
+						<a href="/online/tales-of-demons-and-gods/095" class="linha_unica"><strong>Tales of Demons and Gods (Manhua) | 095</strong></a>
+						<small>
+							<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-09-01 06:58:18</span></strong>
+						</small>
+					</p>
+				</center>
+			</div>
+						<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+				<center>
+					<p>
+												<a href="http://berserk.centraldemangas.org/capitulos/346">
+							<img src="http://capas.centraldemangas.com.br/150x200/berserk.jpg" class="img-thumbnail" width="130px">
+						</a>
+						<a href="http://berserk.centraldemangas.org/capitulos/346" class="linha_unica"><strong>Berserk | 346</strong></a>
+						<small>
+							<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-27 12:15:40</span></strong>
+						</small>
+					</p>
+				</center>
+			</div>
+						<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+				<center>
+					<p>
+												<a href="http://op.centraldemangas.org/capitulos/838">
+							<img src="http://capas.centraldemangas.com.br/150x200/one-piece.jpg" class="img-thumbnail" width="130px">
+						</a>
+						<a href="http://op.centraldemangas.org/capitulos/838" class="linha_unica"><strong>One Piece | 838</strong></a>
+						<small>
+							<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-09-01 10:58:15</span></strong>
+						</small>
+					</p>
+				</center>
+			</div>
+					</div>
+		<div class="row">
+			<div class="col-md-12">
+				<div class="alert alert-success">
+					<p class="lead"><strong>Últimos lançamentos</strong></p>
+				</div>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/red-sprite.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/red-sprite/002" title="Red Sprite">
+						<img src="http://capas.centraldemangas.com.br/60x80/red-sprite.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/red-sprite/002" title="Red Sprite" class="linha_unica">Red Sprite</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 002</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-09-01 21:55:57</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/black-clover.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/black-clover/076" title="Black Clover">
+						<img src="http://capas.centraldemangas.com.br/60x80/black-clover.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/black-clover/076" title="Black Clover" class="linha_unica">Black Clover</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 076</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-09-01 16:23:03</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/boku-no-hero-academia.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/boku-no-hero-academia/105" title="Boku no Hero Academia">
+						<img src="http://capas.centraldemangas.com.br/60x80/boku-no-hero-academia.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/boku-no-hero-academia/105" title="Boku no Hero Academia" class="linha_unica">Boku no Hero Academia</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 105</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-09-01 13:57:40</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/toriko.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="http://toriko.centraldemangas.org/capitulos/385" title="Toriko">
+						<img src="http://capas.centraldemangas.com.br/60x80/toriko.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="http://toriko.centraldemangas.org/capitulos/385" title="Toriko" class="linha_unica">Toriko</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 385</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-09-01 11:01:57</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/one-piece.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="http://op.centraldemangas.org/capitulos/838" title="One Piece">
+						<img src="http://capas.centraldemangas.com.br/60x80/one-piece.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="http://op.centraldemangas.org/capitulos/838" title="One Piece" class="linha_unica">One Piece</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 838</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-09-01 10:58:15</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/tales-of-demons-and-gods.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/tales-of-demons-and-gods/095" title="Tales of Demons and Gods (Manhua)">
+						<img src="http://capas.centraldemangas.com.br/60x80/tales-of-demons-and-gods.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/tales-of-demons-and-gods/095" title="Tales of Demons and Gods (Manhua)" class="linha_unica">Tales of Demons and Gods (Manhua)</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 095</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-09-01 06:58:18</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/hajime-no-ippo.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="http://cdmhni.com.br/capitulos/1150" title="Hajime No Ippo">
+						<img src="http://capas.centraldemangas.com.br/60x80/hajime-no-ippo.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="http://cdmhni.com.br/capitulos/1150" title="Hajime No Ippo" class="linha_unica">Hajime No Ippo</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 1150</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-31 13:04:53</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/en-en-no-shouboutai.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/en-en-no-shouboutai/045" title="En En no Shouboutai">
+						<img src="http://capas.centraldemangas.com.br/60x80/en-en-no-shouboutai.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/en-en-no-shouboutai/045" title="En En no Shouboutai" class="linha_unica">En En no Shouboutai</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 045</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-31 13:04:21</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/the-god-of-highschool.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/the-god-of-highschool/217" title="The God of Highschool">
+						<img src="http://capas.centraldemangas.com.br/60x80/the-god-of-highschool.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/the-god-of-highschool/217" title="The God of Highschool" class="linha_unica">The God of Highschool</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 217 a 221</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-31 00:12:19</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/magi-labyrinth-of-magic.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="http://magi-labyrinth-of-magic.centraldemangas.org/capitulos/318" title="Magi Labyrinth of Magic">
+						<img src="http://capas.centraldemangas.com.br/60x80/magi-labyrinth-of-magic.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="http://magi-labyrinth-of-magic.centraldemangas.org/capitulos/318" title="Magi Labyrinth of Magic" class="linha_unica">Magi Labyrinth of Magic</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 318</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-31 00:10:43</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/ero-manga-sensei.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/ero-manga-sensei/011" title="Ero Manga Sensei">
+						<img src="http://capas.centraldemangas.com.br/60x80/ero-manga-sensei.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/ero-manga-sensei/011" title="Ero Manga Sensei" class="linha_unica">Ero Manga Sensei</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 011</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-31 00:10:14</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/the-promised-neverland.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/the-promised-neverland/004" title="The Promised Neverland">
+						<img src="http://capas.centraldemangas.com.br/60x80/the-promised-neverland.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/the-promised-neverland/004" title="The Promised Neverland" class="linha_unica">The Promised Neverland</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 004</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-31 00:10:04</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/kingdom.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/kingdom/486" title="Kingdom">
+						<img src="http://capas.centraldemangas.com.br/60x80/kingdom.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/kingdom/486" title="Kingdom" class="linha_unica">Kingdom</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 486</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-31 00:09:50</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/amaama-to-inazuma.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/amaama-to-inazuma/006" title="Amaama to Inazuma">
+						<img src="http://capas.centraldemangas.com.br/60x80/amaama-to-inazuma.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/amaama-to-inazuma/006" title="Amaama to Inazuma" class="linha_unica">Amaama to Inazuma</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 006</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-31 00:09:37</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/panlong.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/panlong/081" title="Panlong">
+						<img src="http://capas.centraldemangas.com.br/60x80/panlong.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/panlong/081" title="Panlong" class="linha_unica">Panlong</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 081 a 082</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-31 00:08:44</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/inu-san-to-neko-san.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/inu-san-to-neko-san/016" title="Inugami-san and Nekoyama-san">
+						<img src="http://capas.centraldemangas.com.br/60x80/inu-san-to-neko-san.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/inu-san-to-neko-san/016" title="Inugami-san and Nekoyama-san" class="linha_unica">Inugami-san and Nekoyama-san</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 016</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-31 00:07:59</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/yukikaze-meiji-ishu-kakutouden.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/yukikaze-meiji-ishu-kakutouden/034" title="Yukikaze - Meiji Ishu Kakutouden">
+						<img src="http://capas.centraldemangas.com.br/60x80/yukikaze-meiji-ishu-kakutouden.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/yukikaze-meiji-ishu-kakutouden/034" title="Yukikaze - Meiji Ishu Kakutouden" class="linha_unica">Yukikaze - Meiji Ishu Kakutouden</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 034 a 035</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-31 00:07:29</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/sakamoto-desu-ga.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/sakamoto-desu-ga/016" title="Sakamoto Desu Ga?">
+						<img src="http://capas.centraldemangas.com.br/60x80/sakamoto-desu-ga.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/sakamoto-desu-ga/016" title="Sakamoto Desu Ga?" class="linha_unica">Sakamoto Desu Ga?</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 016</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-31 00:06:48</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/kakukaku.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/kakukaku/002" title="Kakukaku Shikajika">
+						<img src="http://capas.centraldemangas.com.br/60x80/kakukaku.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/kakukaku/002" title="Kakukaku Shikajika" class="linha_unica">Kakukaku Shikajika</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 002</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-31 00:06:33</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/boku-no-robot.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/boku-no-robot/005" title="Boku no Robot">
+						<img src="http://capas.centraldemangas.com.br/60x80/boku-no-robot.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/boku-no-robot/005" title="Boku no Robot" class="linha_unica">Boku no Robot</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 005</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-31 00:06:11</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/shuriken-to-pleats.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/shuriken-to-pleats/005" title="Shuriken to Pleats">
+						<img src="http://capas.centraldemangas.com.br/60x80/shuriken-to-pleats.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/shuriken-to-pleats/005" title="Shuriken to Pleats" class="linha_unica">Shuriken to Pleats</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 005</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-31 00:05:31</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/tower-of-god2.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/tower-of-god2/213" title="Tower of God 2">
+						<img src="http://capas.centraldemangas.com.br/60x80/tower-of-god2.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/tower-of-god2/213" title="Tower of God 2" class="linha_unica">Tower of God 2</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 213</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-31 00:05:21</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/need-a-girl.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/need-a-girl/005" title="Need a Girl">
+						<img src="http://capas.centraldemangas.com.br/60x80/need-a-girl.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/need-a-girl/005" title="Need a Girl" class="linha_unica">Need a Girl</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 005</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-31 00:04:56</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/geukji-high-school.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/geukji-high-school/029" title="Geukji Hig School">
+						<img src="http://capas.centraldemangas.com.br/60x80/geukji-high-school.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/geukji-high-school/029" title="Geukji Hig School" class="linha_unica">Geukji Hig School</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 029</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-31 00:04:44</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/imperial-guards.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/imperial-guards/011" title="Imperial Guards">
+						<img src="http://capas.centraldemangas.com.br/60x80/imperial-guards.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/imperial-guards/011" title="Imperial Guards" class="linha_unica">Imperial Guards</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 011</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-31 00:04:18</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/arslan-senki.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/arslan-senki/034" title="Arslan Senki">
+						<img src="http://capas.centraldemangas.com.br/60x80/arslan-senki.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/arslan-senki/034" title="Arslan Senki" class="linha_unica">Arslan Senki</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 034</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-31 00:03:39</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/all-out.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/all-out/009" title="All Out">
+						<img src="http://capas.centraldemangas.com.br/60x80/all-out.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/all-out/009" title="All Out" class="linha_unica">All Out</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 009 a 009.5</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-31 00:03:34</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/school-ningyo.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/school-ningyo/004" title="School Ningyo">
+						<img src="http://capas.centraldemangas.com.br/60x80/school-ningyo.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/school-ningyo/004" title="School Ningyo" class="linha_unica">School Ningyo</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 004 a 005</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-31 00:03:08</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/tamen-no-gushi.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/tamen-no-gushi/108" title="Tamen no Gushi">
+						<img src="http://capas.centraldemangas.com.br/60x80/tamen-no-gushi.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/tamen-no-gushi/108" title="Tamen no Gushi" class="linha_unica">Tamen no Gushi</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 108</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-31 00:02:40</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/sekai-oni.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/sekai-oni/049" title="Sekai Oni">
+						<img src="http://capas.centraldemangas.com.br/60x80/sekai-oni.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/sekai-oni/049" title="Sekai Oni" class="linha_unica">Sekai Oni</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 049</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-29 17:31:06</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/que-sera-sera.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/que-sera-sera/035" title="Que sera, sera">
+						<img src="http://capas.centraldemangas.com.br/60x80/que-sera-sera.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/que-sera-sera/035" title="Que sera, sera" class="linha_unica">Que sera, sera</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 035</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-29 17:30:54</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/seitokai-yakuindomo.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/seitokai-yakuindomo/080" title="Seitokai Yakuindomo">
+						<img src="http://capas.centraldemangas.com.br/60x80/seitokai-yakuindomo.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/seitokai-yakuindomo/080" title="Seitokai Yakuindomo" class="linha_unica">Seitokai Yakuindomo</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 080 a 085</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-29 17:29:35</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/hadi-girl.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/hadi-girl/026" title="Hadi Girl">
+						<img src="http://capas.centraldemangas.com.br/60x80/hadi-girl.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/hadi-girl/026" title="Hadi Girl" class="linha_unica">Hadi Girl</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 026 a 029</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-29 17:29:31</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/aho-girl.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/aho-girl/058" title="Aho Girl">
+						<img src="http://capas.centraldemangas.com.br/60x80/aho-girl.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/aho-girl/058" title="Aho Girl" class="linha_unica">Aho Girl</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 058 a 060</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-29 17:20:24</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/kami-sama-no-lutoori-ni.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/kami-sama-no-lutoori-ni/030" title="Kami-sama no Iutoori Ni">
+						<img src="http://capas.centraldemangas.com.br/60x80/kami-sama-no-lutoori-ni.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/kami-sama-no-lutoori-ni/030" title="Kami-sama no Iutoori Ni" class="linha_unica">Kami-sama no Iutoori Ni</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 030</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-29 17:19:33</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/fire-punch.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/fire-punch/018" title="Fire Punch">
+						<img src="http://capas.centraldemangas.com.br/60x80/fire-punch.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/fire-punch/018" title="Fire Punch" class="linha_unica">Fire Punch</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 018</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-29 17:18:18</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/d-frag.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/d-frag/082" title="D-Frag">
+						<img src="http://capas.centraldemangas.com.br/60x80/d-frag.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/d-frag/082" title="D-Frag" class="linha_unica">D-Frag</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 082</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-29 17:18:07</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/big-order.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/big-order/012" title="Big Order">
+						<img src="http://capas.centraldemangas.com.br/60x80/big-order.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/big-order/012" title="Big Order" class="linha_unica">Big Order</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 012 a 022</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-29 17:15:28</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/gosu.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/gosu/051" title="Gosu">
+						<img src="http://capas.centraldemangas.com.br/60x80/gosu.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/gosu/051" title="Gosu" class="linha_unica">Gosu</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 051</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-29 17:13:15</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/to-aru-idol-no-accelerator-sama.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/to-aru-idol-no-accelerator-sama/006" title="To Aru Idol no Accelerator-sama">
+						<img src="http://capas.centraldemangas.com.br/60x80/to-aru-idol-no-accelerator-sama.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/to-aru-idol-no-accelerator-sama/006" title="To Aru Idol no Accelerator-sama" class="linha_unica">To Aru Idol no Accelerator-sama</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 006</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-29 17:11:43</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/tsuyokute-new-saga.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/tsuyokute-new-saga/029" title="Tsuyokute New Saga">
+						<img src="http://capas.centraldemangas.com.br/60x80/tsuyokute-new-saga.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/tsuyokute-new-saga/029" title="Tsuyokute New Saga" class="linha_unica">Tsuyokute New Saga</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 029</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-29 17:11:31</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/ero-manga-sensei.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/ero-manga-sensei/010" title="Ero Manga Sensei">
+						<img src="http://capas.centraldemangas.com.br/60x80/ero-manga-sensei.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/ero-manga-sensei/010" title="Ero Manga Sensei" class="linha_unica">Ero Manga Sensei</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 010</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-29 17:10:53</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/aizawa-san-zoushoku.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/aizawa-san-zoushoku/022" title=" Aizawa-san Zoushoku ">
+						<img src="http://capas.centraldemangas.com.br/60x80/aizawa-san-zoushoku.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/aizawa-san-zoushoku/022" title=" Aizawa-san Zoushoku " class="linha_unica"> Aizawa-san Zoushoku </a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 022</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-29 17:10:12</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/doupo-cangqiong.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/doupo-cangqiong/068" title="Doupo Cangqiong">
+						<img src="http://capas.centraldemangas.com.br/60x80/doupo-cangqiong.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/doupo-cangqiong/068" title="Doupo Cangqiong" class="linha_unica">Doupo Cangqiong</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 068 a 069</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-29 17:10:03</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/nisekoi-doumei.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/nisekoi-doumei/046" title="Nisekoi Doumei">
+						<img src="http://capas.centraldemangas.com.br/60x80/nisekoi-doumei.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/nisekoi-doumei/046" title="Nisekoi Doumei" class="linha_unica">Nisekoi Doumei</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 046 a 048</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-29 17:09:19</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/mercenary-maruhan.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/mercenary-maruhan/078" title="Mercenary Maruhan">
+						<img src="http://capas.centraldemangas.com.br/60x80/mercenary-maruhan.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/mercenary-maruhan/078" title="Mercenary Maruhan" class="linha_unica">Mercenary Maruhan</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 078</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-29 17:09:04</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/shinigami-hime-no-saikon.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/shinigami-hime-no-saikon/013" title="Shinigami Hime no Saikon">
+						<img src="http://capas.centraldemangas.com.br/60x80/shinigami-hime-no-saikon.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/shinigami-hime-no-saikon/013" title="Shinigami Hime no Saikon" class="linha_unica">Shinigami Hime no Saikon</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 013</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-29 17:08:00</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/ookami-heika-no-hanayome.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/ookami-heika-no-hanayome/013" title="Ookami-heika no Hanayome">
+						<img src="http://capas.centraldemangas.com.br/60x80/ookami-heika-no-hanayome.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/ookami-heika-no-hanayome/013" title="Ookami-heika no Hanayome" class="linha_unica">Ookami-heika no Hanayome</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 013</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-29 17:06:13</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/soul-land-ii-douluo-dalu-ii.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/soul-land-ii-douluo-dalu-ii/010" title="Douluo Dalu II - Jueshui Tangmen">
+						<img src="http://capas.centraldemangas.com.br/60x80/soul-land-ii-douluo-dalu-ii.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/soul-land-ii-douluo-dalu-ii/010" title="Douluo Dalu II - Jueshui Tangmen" class="linha_unica">Douluo Dalu II - Jueshui Tangmen</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 010</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-29 17:05:24</span></strong>
+					</small>
+				</p>
+			</div>
+										<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 lancto">
+				<!-- <img src="http://mangas.centraldemangas.com.br/_capas/60x80/soul-land-i-douluo-dalu.jpg" class="img-polaroid"> -->
+				<div class="pull-left" style="margin-right: 5px">
+					<a href="/online/soul-land-i-douluo-dalu/021" title="Douluo Dalu - Soul Land I">
+						<img src="http://capas.centraldemangas.com.br/60x80/soul-land-i-douluo-dalu.jpg" class="img-thumbnail">
+					</a>
+				</div>
+				<p>
+					<strong>
+						<a href="/online/soul-land-i-douluo-dalu/021" title="Douluo Dalu - Soul Land I" class="linha_unica">Douluo Dalu - Soul Land I</a>
+					</strong>
+					<small>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-book"></span> 021</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-user"></span> Ikkyy</strong>
+						<strong class="linha_unica"><span class="glyphicon glyphicon-time"></span> <span class="moment">2016-08-29 17:04:58</span></strong>
+					</small>
+				</p>
+			</div>
+					</div>
+	</div>
+		<div class="col-xs-3 col-md-3">
+
+		<!-- <div>
+			<a href="http://lolmania.com.br"><img src="/img/lolmaniacdm.jpg"></a>
+		</div> -->
+		<div>
+			<a href="https://www.facebook.com/groups/991085887646348/" target="_blank"><img src="/img/grupofb.jpg"></a>
+		</div>
+		<br>
+
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<div class="panel-title">
+					<span class="glyphicon glyphicon-thumbs-up"></span> Siga-nos
+				</div>
+			</div>
+			<div class="panel-body">
+				<!-- AddThis Follow BEGIN -->
+				<div class="addthis_toolbox addthis_32x32_style addthis_default_style">
+				<a class="addthis_button_facebook_follow" addthis:userid="CentralDeMangas"></a>
+				<a class="addthis_button_twitter_follow" addthis:userid="CentralDeMangas"></a>
+				<a class="addthis_button_google_follow" addthis:userid="+centraldemangas"></a>
+				<a class="addthis_button_rss_follow" addthis:userid="/rss"></a>
+				</div>
+				<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-525565107eedfd7f"></script>
+				<!-- AddThis Follow END -->
+			</div>
+		</div>
+
+		<div class="panel panel-default panel-danger">
+			<div class="panel-heading">
+				<div class="panel-title">
+					<span class="glyphicon glyphicon-fire"></span> Top 10 Mangás
+				</div>
+			</div>
+			<div class="panel-body">
+				<ul class="list-unstyled">
+																<li><a href="http://cdmft.com.br/">Fairy Tail</a></li>
+																<li><a href="/mangas/info/seven-deadly-sins">Seven Deadly Sins</a></li>
+																<li><a href="http://kononline.centraldemangas.org/">Bleach</a></li>
+																<li><a href="/mangas/info/tales-of-demons-and-gods">Tales of Demons and Gods (Manhua)</a></li>
+																<li><a href="http://berserk.centraldemangas.org/">Berserk</a></li>
+																<li><a href="http://op.centraldemangas.org/">One Piece</a></li>
+																<li><a href="/mangas/info/boku-no-hero-academia">Boku no Hero Academia</a></li>
+																<li><a href="http://cdmopm.com.br/">Onepunch-man</a></li>
+																<li><a href="http://konohaonline.info/">Naruto</a></li>
+																<li><a href="/mangas/info/the-god-of-highschool">The God of Highschool</a></li>
+										<li><a href="/mangas">+ Mangas</a></li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="panel panel-default panel-success">
+			<div class="panel-heading">
+				<div class="panel-title">
+					<span class="glyphicon glyphicon-briefcase"></span> Top Parceiros
+				</div>
+			</div>
+			<div class="panel-body">
+				<ul class="list-unstyled">
+										<li><a href="http://www.otakuanimes.com.br/" target="_blank">Loja Otaku Animes</a></li>
+										<li><a href="http://aiueomangas.blogspot.com/" target="_blank">A.I.U.E.O. Mangá</a></li>
+										<li><a href="http://familyyuki.blogspot.com/" target="_blank">FY Scans</a></li>
+										<li><a href="http://www.chrono.com.br/" target="_blank">Chrono Scanlator</a></li>
+										<li><a href="http://fascinioasiaticov2.blogspot.com.br/" target="_blank">Fascinio Asiatico</a></li>
+										<li><a href="http://goo.gl/xREJai" target="_blank">E Must Die</a></li>
+										<li><a href="http://www.lady-otomen-project.blogspot.com.br" target="_blank">Lady Otomen</a></li>
+										<li><a href="https://www.youtube.com/channel/UCFrDAwV2ndX8VSQp-ZSmLgQ" target="_blank">Coleciono</a></li>
+										<li><a href="http://www.gokigenyou.com.br/" target="_blank">Gokigenyou</a></li>
+										<li><a href="http://mundo-otaku-scans.blogspot.com.br" target="_blank">Mundo Otaku Scans</a></li>
+										<li><a href="http://saikaiscan.com.br/" target="_blank">Saika Scans</a></li>
+										<li><a href="/partners">+ Parceiros</a></li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="panel panel-default panel-info">
+			<div class="panel-heading">
+				<div class="panel-title">
+					<span class="glyphicon glyphicon-heart"></span> Top Favoritos
+				</div>
+			</div>
+			<div class="panel-body">
+				<ul class="list-unstyled">
+																<li><a href="http://konohaonline.info/">Naruto</a></li>
+																<li><a href="http://op.centraldemangas.org/">One Piece</a></li>
+																<li><a href="/mangas/info/beelzebub">Beelzebub</a></li>
+																<li><a href="http://kononline.centraldemangas.org/">Bleach</a></li>
+																<li><a href="http://cdmft.com.br/">Fairy Tail</a></li>
+																<li><a href="/mangas/info/death-note">Death Note</a></li>
+																<li><a href="/mangas/info/ao-no-exorcist">Ao no Exorcist</a></li>
+																<li><a href="http://berserk.centraldemangas.org/">Berserk</a></li>
+																<li><a href="/mangas/info/fullmetal-alchemist">Fullmetal Alchemist</a></li>
+																<li><a href="/mangas/info/katekyo-hitman-reborn">Katekyo Hitman Reborn</a></li>
+									</ul>
+			</div>
+		</div>
+
+	</div>
+</div>
+		<div class="row">
+			<div class="col-md-12">
+				<center>
+					<strong><a href="/">Central de Mangás</a></strong>
+					<a href="http://whos.amung.us/show/ho7ssjs0">
+						<img src="http://whos.amung.us/widget/ho7ssjs0.png" alt="who's online" width="1" height="1" border="0" />
+					</a>
+					<br>
+					<!-- <small>Powered by: <a href="http://twitter.com/banditxp">BanditXP</a></small> -->
+				</center>
+			</div>
+		</div>
+
+		<hr>
+		<div class="row">
+			<div class="col-md-12">
+				<p class="text-justify">
+					<small>Direitos autorais e marcas para mangás, e outros materiais promocionais são mantidos por seus respectivos proprietários e a sua utilização é permitida nos termos da cláusula de uso justo da Lei de Direitos Autorais Americana. (Copyrights and trademarks for the manga, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the U.S. Copyright Law.) - Hosted in U.S - "Central de Mangás - 2008 - 2014"</small>
+				</p>
+				<center>
+					<small>
+						<a href="/site/terms">Termos de Uso (English)</a>
+						&bull;
+						<a href="/site/privacy">Política de Privacidade (English)</a>
+						<!-- &bull;
+						<a href="/site/legal_disclaimer">Legal Disclaimer</a> -->
+					</small>
+				</center>
+			</div>
+		</div>
+	</div>
+	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js?r=6"></script> -->
+	<script src="http://code.jquery.com/jquery-1.11.0.min.js?r=6"></script>
+	<script src="/js/bootstrap.min.js?r=6"></script>
+	<script src="/js/moment-with-langs.min.js?r=6"></script>
+	<script src="/js/cdm.min.js?r=6"></script>
+	<script>
+		$(function() {
+			$("#carousel").carousel();
+			// $('#ad_barra').affix()
+			$(".tltip").tooltip();
+
+			moment.lang("pt-br");
+			$(".moment").each(function(index) {
+				$(this).html(moment($(this).html()).fromNow());
+			});
+		});
+
+        if (window.top !== window.self) window.top.location.replace(window.self.location.href);
+		// if(self.location!=top.location) top.location.replace(self.location);
+	</script>
+
+	<!-- Spider begin -->
+	<script async="true" type="text/javascript" src="http://venom1301.spider.ad?id=21089"></script>
+	<!-- Spider end -->
+	<script>
+	if( window.canRunAds === undefined ){
+		$("#aviso-block").removeClass('hide');
+	}
+	</script>
+</body>
+</html>
